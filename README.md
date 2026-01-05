@@ -4,6 +4,7 @@
 
 ### 🚀 Frontend Developer | React Enthusiast
 div hello world
+div wort bit
 
 Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman.
 
