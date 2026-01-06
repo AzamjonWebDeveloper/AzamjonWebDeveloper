@@ -3,8 +3,7 @@
 # 👋 Hello, I'm Azamjon Ergashev
 
 ### 🚀 Frontend Developer | React Enthusiast
-div hello world
-div wort bit
+div world
 
 Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman.
 
