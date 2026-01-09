@@ -3,9 +3,8 @@
 # 👋 Hello, I'm Azamjon Ergashev
 
 ### 🚀 Frontend Developer | React Enthusiast
-div world
-h1 salom dunyo
-h2 hello world 
+
+h3 hello 
 
 Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman.
 
