@@ -4,9 +4,7 @@
 
 ### 🚀 Frontend Developer | React Enthusiast
 
-h1 hello world
-h2 hello
-h3 world
+h1 salom dunyo 
 
 Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman.
 
