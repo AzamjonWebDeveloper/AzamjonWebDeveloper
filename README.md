@@ -6,6 +6,7 @@
 
 h1 div hello 
 h2 salom dunyo 
+h3 hello world 
 
 Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman.
 
