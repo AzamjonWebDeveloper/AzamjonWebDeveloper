@@ -4,7 +4,7 @@
       
 ### 🚀 Frontend Developer | React Enthusiast    
     
-Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
+Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman    
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+Redux;Vite+Fast+Projects;Clean+%26+Scalable+Code" />
    
@@ -19,7 +19,7 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 - ⚡️ Vite orqali tezkor va optimallashtirilgan loyihalar qilaman  
 - 🎨 UI/UX va responsive design’ga katta e’tibor beraman  
 - 📚 Doim yangi texnologiyalarni o‘rganaman  
-
+    
 ---
 
 ## 🛠 Tech Stack
