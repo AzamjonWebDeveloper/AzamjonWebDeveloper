@@ -35,15 +35,15 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
      
 | Project Name | Description | Tech |      
 |-------------|-------------|------|  
-| React Dashboard | Admin panel UI | React, Tailwind |      
+| React Dashboard | Admin panel UI | React, Tailwind |           
 | E-commerce UI | Online shop frontend | React, Redux |   
-| Landing Pages | Responsive websites | HTML, CSS, JS |
+| Landing Pages | Responsive websites | HTML, CSS, JS |     
 
 ---
 
 ## 📦 What I Can Do
 
-- ✅ Responsive web saytlar
+- ✅ Responsive web saytlar    
 - ✅ Single Page Applications (SPA)
 - ✅ API bilan ishlash
 - ✅ State management (Redux)
