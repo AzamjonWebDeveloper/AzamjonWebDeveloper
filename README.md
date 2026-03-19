@@ -31,11 +31,11 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
       
 ---     
      
-## 📂 Projects          
+## 📂 Projects             
      
-| Project Name | Description | Tech |   
+| Project Name | Description | Tech |      
 |-------------|-------------|------|  
-| React Dashboard | Admin panel UI | React, Tailwind |  
+| React Dashboard | Admin panel UI | React, Tailwind |      
 | E-commerce UI | Online shop frontend | React, Redux |   
 | Landing Pages | Responsive websites | HTML, CSS, JS |
 
