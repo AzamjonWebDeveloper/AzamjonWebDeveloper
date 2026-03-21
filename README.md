@@ -51,9 +51,9 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
+## 📊 GitHub Stats    
+     
+<div align="center">    
 
 <img src="https://github-readme-stats.vercel.app/api?username=azamjon-ergashev&show_icons=true&theme=tokyonight" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=azamjon-ergashev&theme=tokyonight" height="170" />
