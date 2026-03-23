@@ -62,10 +62,10 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me     
 
-<p>
-  <a href="https://github.com/azamjon-ergashev">
+<p>         
+  <a href="https://github.com/azamjon-ergashev">   
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:example@gmail.com">
