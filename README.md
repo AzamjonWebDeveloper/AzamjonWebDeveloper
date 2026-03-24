@@ -18,10 +18,10 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 - ⚛️ React va Redux asosida SPA ilovalar yarataman 
 - ⚡️ Vite orqali tezkor va optimallashtirilgan loyihalar qilaman
 - 🎨 UI/UX va responsive design’ga katta e’tibor beraman
-- 📚 Doim yangi texnologiyalarni o‘rganaman             
-                      
----              
-              
+- 📚 Doim yangi texnologiyalarni o‘rganaman
+- 
+---
+ 
 ## 🛠 Tech Stack
         
 ### 🌐 Frontend         
