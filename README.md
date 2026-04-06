@@ -41,11 +41,11 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 
 ---
 
-## 📦 What I Can Do
+## 📦 What I Can Do    
 
-- ✅ Responsive web saytlar    
+- ✅ Responsive web saytlar        
 - ✅ Single Page Applications (SPA)
-- ✅ API bilan ishlash
+- ✅ API bilan ishlash     
 - ✅ State management (Redux)
 - ✅ Clean & maintainable code
 
