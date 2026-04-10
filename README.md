@@ -14,10 +14,10 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
  
 ## 🧑‍💻 About Me 
       
-- 💻 Frontend development bilan shug‘ullanaman 
-- ⚛️ React va Redux asosida SPA ilovalar yarataman
-- ⚡️ Vite orqali tezkor va optimallashtirilgan loyihalar qilaman        
-- 🎨 UI/UX va responsive design’ga katta e’tibor beraman    
+- 💻 Frontend development bilan shug‘ullanaman     
+- ⚛️ React va Redux asosida SPA ilovalar yarataman     
+- ⚡️ Vite orqali tezkor va optimallashtirilgan loyihalar qilaman            
+- 🎨 UI/UX va responsive design’ga katta e’tibor beraman        
 - 📚 Doim yangi texnologiyalarni o‘rganaman      
 - 
 ---
