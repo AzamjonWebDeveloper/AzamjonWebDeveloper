@@ -42,10 +42,10 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 ---
 
 ## 📦 What I Can Do 
-           
-- ✅ Responsive web saytlar            
-- ✅ Single Page Applications (SPA)     
-- ✅ API bilan ishlash         
+ 
+- ✅ Responsive web saytlar
+- ✅ Single Page Applications (SPA)
+- ✅ API bilan ishlash
 - ✅ State management (Redux)
 - ✅ Clean & maintainable code
 
