@@ -37,11 +37,11 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 |-------------|-------------|------|
 | React Dashboard | Admin panel UI | React, Tailwind |        
 | E-commerce UI | Online shop frontend | React, Redux |
-| Landing Pages | Responsive websites | HTML, CSS, JS |       
-      
+| Landing Pages | Responsive websites | HTML, CSS, JS |
+
 ---
-     
-## 📦 What I Can Do    
+
+## 📦 What I Can Do 
            
 - ✅ Responsive web saytlar            
 - ✅ Single Page Applications (SPA)     
