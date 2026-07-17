@@ -11,7 +11,7 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 </div>
 
 --- 
-     
+
 ## 🧑‍💻 About Me
 
 - 💻 Frontend development bilan shug‘ullanaman
@@ -21,8 +21,8 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 - 📚 Doim yangi texnologiyalarni o‘rganaman
 - 
 ---
- 
-## 🛠 Tech Stack         
+
+## 🛠 Tech Stack
              
 ### 🌐 Frontend                   
 <p>           
