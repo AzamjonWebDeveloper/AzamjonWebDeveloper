@@ -1,7 +1,7 @@
  <div align="center">
 
-# 👋 Hello, I'm Azamjon Ergashevm
-
+# 👋 Hello, I'm Azamjon Ergashevm     
+      
 ### 🚀 Frontend Developer | Reac Enthusiast     
 
 Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
