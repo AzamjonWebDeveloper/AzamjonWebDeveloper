@@ -1,8 +1,8 @@
  <div align="center">
 
-# 👋 Hello, I'm Azamjon Ergashevm     
+# 👋 Hello, I'm Azamjon Ergashevm        
       
-### 🚀 Frontend Developer | Reac Enthusiast     
+### 🚀 Frontend Developer | Reac Enthusiast          
      
 Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman     
       
@@ -12,10 +12,10 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
        
 ---        
 
-## 🧑‍💻 About Me   
-    
-- 💻 Frontend development bilan shug‘ullanaman
-- ⚛️ React va Redux asosida SPA ilovalar yarataman
+## 🧑‍💻 About Me       
+        
+- 💻 Frontend development bilan shug‘ullanaman   
+- ⚛️ React va Redux asosida SPA ilovalar yarataman  
 - ⚡️ Vite orqali tezkor va optimallashtirilgan loyihalar qilaman
 - 🎨 UI/UX va responsive design’ga katta e’tibor beraman
 - 📚 Doim yangi texnologiyalarni o‘rganaman
