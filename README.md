@@ -1,6 +1,6 @@
  <div align="center">
-      
-# 👋 Hello, I'm Azamjon Ergashevm              
+
+# 👋 Hello, I'm Azamjon Ergashevm
             
 ### 🚀 Frontend Developer | Reac Enthusiast            
              
