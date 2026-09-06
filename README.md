@@ -10,9 +10,9 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 
 </div>
 
----         
-      
-## 🧑‍💻 About Me              
+---
+
+## 🧑‍💻 About Me
                
 - 💻 Frontend development bilan shug‘ullanaman       
 - ⚛️ React va Redux asosida SPA ilovalar yarataman       
