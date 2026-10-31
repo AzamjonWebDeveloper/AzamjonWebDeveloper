@@ -21,8 +21,8 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 - 📚 Doim yangi texnologiyalarni o‘rganaman
 - 
 ---
-                                     
-## 🛠 Tech Stack                                   
+
+## 🛠 Tech Stack     
 
 ### 🌐 Frontend
 <p>
