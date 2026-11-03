@@ -20,10 +20,10 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 - 🎨 UI/UX va responsive design’ga katta e’tibor beraman
 - 📚 Doim yangi texnologiyalarni o‘rganaman
 - 
----
-
-## 🛠 Tech Stack     
-
+---                    
+                 
+## 🛠 Tech Stack               
+                
 ### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,vite" />
