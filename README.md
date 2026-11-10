@@ -10,8 +10,8 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 
 </div>
 
----                         
-                            
+--- 
+
 ## 🧑‍💻 About Me                        
                                      
 - 💻 Frontend development bilan shug‘ullanaman                                                                   
