@@ -28,10 +28,10 @@ Modern, responsive va foydalanuvchi uchun qulay web interfeyslar yarataman
 <p>                        
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,redux,vite" />
 </p>
+          
+---               
 
----
-
-## 📂 Projects
+## 📂 Projects                
 
 | Project Name | Description | Tech |              
 |-------------|-------------|------|             
